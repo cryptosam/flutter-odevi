@@ -27,4 +27,3 @@ void main() {
     expect(find.text('1'), findsOneWidget);
   });
 }
-await tester.pumpWidget(Uygulama());
