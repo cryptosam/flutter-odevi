@@ -1,4 +1,4 @@
-# Flutter 2020 Ödevi
+# Flutter 2020 Ödevidir
 
 Flutter konusunda verilen ödevdir.
 
